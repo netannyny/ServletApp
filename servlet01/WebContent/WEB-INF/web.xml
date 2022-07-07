@@ -11,12 +11,12 @@
   </welcome-file-list>
   <servlet>
     <description></description>
-    <display-name>sevlet_pg</display-name>
-    <servlet-name>sevlet_pg</servlet-name>
-    <servlet-class>model.sevlet_pg</servlet-class>
+    <display-name>servlet_pg</display-name>
+    <servlet-name>servlet_pg</servlet-name>
+    <servlet-class>model.servlet_pg</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>sevlet_pg</servlet-name>
-    <url-pattern>/sevlet_pg</url-pattern>
+    <servlet-name>servlet_pg</servlet-name>
+    <url-pattern>/servlet_pg</url-pattern>
   </servlet-mapping>
 </web-app>
