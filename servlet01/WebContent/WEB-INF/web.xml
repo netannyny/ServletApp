@@ -19,4 +19,34 @@
     <servlet-name>servlet_pg</servlet-name>
     <url-pattern>/servlet_pg</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>topmenu</display-name>
+    <servlet-name>topmenu</servlet-name>
+    <servlet-class>model.topmenu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>topmenu</servlet-name>
+    <url-pattern>/topmenu</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>u_login</display-name>
+    <servlet-name>u_login</servlet-name>
+    <servlet-class>model.u_login</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>u_login</servlet-name>
+    <url-pattern>/u_login</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>a_login</display-name>
+    <servlet-name>a_login</servlet-name>
+    <servlet-class>model.a_login</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>a_login</servlet-name>
+    <url-pattern>/a_login</url-pattern>
+  </servlet-mapping>
 </web-app>
