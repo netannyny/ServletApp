@@ -14,6 +14,6 @@
 
 		<input type = "submit" value = "ログイン"><br>
 	</form>
-	<a href="servlet01/model/topmenu.java">戻る</a>
+	<a href="topmenu">戻る</a>
 </body>
 </html>
