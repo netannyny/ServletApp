@@ -7,7 +7,7 @@
 <title>トップメニュー</title>
 </head>
 <body>
-	<a href="servlet01/u_login">始める</a><br>
-	<a href="servlet01/model/a_login.java">管理者の方はこちら</a>
+	<a href="u_login">始める</a><br>
+	<a href="a_login">管理者の方はこちら</a>
 </body>
 </html>
