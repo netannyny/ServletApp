@@ -11,8 +11,8 @@
 		ID&nbsp; <input type= "text" name = "id"><br><br>
 		パスワード&nbsp; <input type= "text" name = "pass"><br><br>
 
-		<a href="servlet01/model/u_menu.java">ログイン</a><br>
-		<a href="servlet01/model/topmenu.java">戻る</a>
+		<input type = "submit" value = "ログイン"><br>
+		<a href="topmenu">戻る</a>
 		<a href="servlet01/model/u_entry_1.java">新規登録はこちら</a>
 	</form>
 </body>
