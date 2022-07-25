@@ -1,4 +1,4 @@
-package model;
+package scopedata;
 public class UserData {
 	private String id;
 	private String pass;

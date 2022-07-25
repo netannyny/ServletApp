@@ -13,7 +13,7 @@
 
 		<input type = "submit" value = "ログイン"><br>
 		<a href="topmenu">戻る</a>
-		<a href="servlet01/model/u_entry_1.java">新規登録はこちら</a>
+		<a href="u_entry_1">新規登録はこちら</a>
 	</form>
 </body>
 </html>

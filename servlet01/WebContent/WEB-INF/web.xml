@@ -49,4 +49,14 @@
     <servlet-name>a_login</servlet-name>
     <url-pattern>/a_login</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>u_menu</display-name>
+    <servlet-name>u_menu</servlet-name>
+    <servlet-class>model.u_menu</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>u_menu</servlet-name>
+    <url-pattern>/u_menu</url-pattern>
+  </servlet-mapping>
 </web-app>
